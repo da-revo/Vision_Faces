@@ -1,0 +1,4 @@
+#Sun Mar 17 13:06:12 IST 2019
+base.0=/home/da/coding_projects/Flutter_Projects/flutter_vision_faces/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

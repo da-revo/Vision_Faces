@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "895055724249",
+    "firebase_url": "https://flutter-vision-1daaa.firebaseio.com",
+    "project_id": "flutter-vision-1daaa",
+    "storage_bucket": "flutter-vision-1daaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895055724249:android:7761e80800981d54",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vision_faces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895055724249-k3via2pldml55g4tjkiqk4dv1cmeb3b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKmdUO0oIAD_Vg1LJJ_odYzlyru6zHl5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

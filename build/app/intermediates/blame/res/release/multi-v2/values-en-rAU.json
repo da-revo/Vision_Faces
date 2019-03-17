@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/da/coding_projects/Flutter_Projects/flutter_vision_faces/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/da/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/124265ffe68e04c512452449706233a4/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

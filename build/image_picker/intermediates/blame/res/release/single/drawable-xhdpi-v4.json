@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/da/coding_projects/Flutter_Projects/flutter_vision_faces/build/image_picker/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/da/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/124265ffe68e04c512452449706233a4/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/da/coding_projects/Flutter_Projects/flutter_vision_faces/build/image_picker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/da/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/124265ffe68e04c512452449706233a4/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/da/coding_projects/Flutter_Projects/flutter_vision_faces/build/image_picker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/da/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/124265ffe68e04c512452449706233a4/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/da/coding_projects/Flutter_Projects/flutter_vision_faces/build/image_picker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/da/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/124265ffe68e04c512452449706233a4/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/da/coding_projects/Flutter_Projects/flutter_vision_faces/build/image_picker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/da/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/124265ffe68e04c512452449706233a4/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]
